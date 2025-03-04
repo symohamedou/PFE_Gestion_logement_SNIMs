@@ -1,0 +1,2074 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "plan_logement.1",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759311.40271125, 2515353.06486464],
+              [759311.42218693, 2515353.06463903],
+              [759311.2198701, 2515339.40911188],
+              [759296.80125397, 2515339.62273435],
+              [759296.92399509, 2515350.21821965],
+              [759300.94261656, 2515350.17166688],
+              [759300.97753121, 2515353.18563299],
+              [759311.40271125, 2515353.06486464]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "S02-981",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.2",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759337.75752377, 2515298.80389516],
+              [759352.59431798, 2515298.60279682],
+              [759352.47476474, 2515288.28250217],
+              [759348.45614326, 2515288.32905503],
+              [759348.42122863, 2515285.31508883],
+              [759337.56701233, 2515285.44082725],
+              [759337.75752377, 2515298.80389516]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E02-1036",
+        "mle_id": "19710",
+        "nom_comple": "AMADOU TAHIROU SY",
+        "cat": "M3",
+        "sce": "820",
+        "date_ancie": "15/08/2010",
+        "sf": "3",
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": "ok",
+        "nbre_clima": "1",
+        "refrigerat": "false",
+        "cuisinier": "false",
+        "lave_linge": "false",
+        "quota_elec": "475",
+        "quota_eau": "150",
+        "geom": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.3",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759324.68908208, 2515299.01623362],
+              [759337.7487672, 2515298.8039966],
+              [759337.55078466, 2515285.44101515],
+              [759327.32346586, 2515285.55949132],
+              [759327.32346586, 2515285.55949132],
+              [759327.3583805, 2515288.57345743],
+              [759324.53484916, 2515288.60616612],
+              [759324.68908208, 2515299.01623362]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E02-1035",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.4",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759310.63266472, 2515299.20251186],
+              [759324.68908208, 2515299.01623362],
+              [759324.53484916, 2515288.60616612],
+              [759320.32579291, 2515288.65492493],
+              [759320.29087826, 2515285.64095891],
+              [759310.44117782, 2515285.75506065],
+              [759310.63266472, 2515299.20251186]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E02-1034",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.5",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759297.34034074, 2515299.42142563],
+              [759310.61621525, 2515299.2027025],
+              [759310.42494808, 2515285.75524866],
+              [759301.20242623, 2515285.86208498],
+              [759301.23734087, 2515288.87605109],
+              [759297.21871939, 2515288.92260395],
+              [759297.34034074, 2515299.42142563]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "S02-1033",
+        "mle_id": "18159",
+        "nom_comple": "SID\\M\\HAMED OULD ZEIDANE.",
+        "cat": "M3",
+        "sce": "840",
+        "date_ancie": "02/10/2004",
+        "sf": "0",
+        "logt_occup": "E01-869",
+        "logt propo": null,
+        "avis_agent": "ok",
+        "nbre_clima": "2",
+        "refrigerat": "true",
+        "cuisinier": "false",
+        "lave_linge": "false",
+        "quota_elec": "1500",
+        "quota_eau": "150",
+        "geom": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.6",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759297.4747601, 2515311.02502209],
+              [759301.49338159, 2515310.97846914],
+              [759301.52829623, 2515313.99243525],
+              [759310.84170462, 2515313.88454608],
+              [759310.63266472, 2515299.20251186],
+              [759297.34034074, 2515299.42142563],
+              [759297.4747601, 2515311.02502209]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E02-1014",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.7",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759321.62140363, 2515313.75967097],
+              [759321.58648899, 2515310.74570486],
+              [759324.86230073, 2515310.70775692],
+              [759324.68908208, 2515299.01623362],
+              [759310.62450673, 2515299.22461089],
+              [759310.84170462, 2515313.88454608],
+              [759321.62140363, 2515313.75967097]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E02-1015",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.8",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759324.86230073, 2515310.70775692],
+              [759327.6144212, 2515310.67587567],
+              [759327.64933585, 2515313.68984169],
+              [759337.96754119, 2515313.57031265],
+              [759337.75752377, 2515298.80389516],
+              [759324.68908208, 2515299.01623362],
+              [759324.86230073, 2515310.70775692],
+              [759324.86230073, 2515310.70775692]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E02-1016",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.9",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759337.9480655, 2515313.57053827],
+              [759347.74244325, 2515313.4570774],
+              [759347.70752861, 2515310.44311129],
+              [759352.73080546, 2515310.38492022],
+              [759352.59431798, 2515298.60279682],
+              [759337.75752377, 2515298.80389516],
+              [759337.9480655, 2515313.57053827]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E02-1017",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.10",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759270.44775485, 2515299.79788977],
+              [759284.28030976, 2515299.61491974],
+              [759284.15819959, 2515289.07390064],
+              [759281.14423347, 2515289.10881537],
+              [759281.10931883, 2515286.09484926],
+              [759270.23852354, 2515286.22077957],
+              [759270.44775485, 2515299.79788977]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E02-1032",
+        "mle_id": "19262",
+        "nom_comple": "AHMED SALEH",
+        "cat": "M3",
+        "sce": "820",
+        "date_ancie": "14/09/2008",
+        "sf": "3",
+        "logt_occup": "SEM01-2480",
+        "logt propo": null,
+        "avis_agent": "ok",
+        "nbre_clima": "1",
+        "refrigerat": "false",
+        "cuisinier": "false",
+        "lave_linge": "false",
+        "quota_elec": "475",
+        "quota_eau": "150",
+        "geom": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.11",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759215.96630153, 2515300.62704275],
+              [759230.25550476, 2515300.41533763],
+              [759230.09675147, 2515289.70016396],
+              [759226.89284349, 2515289.73727894],
+              [759226.85792884, 2515286.72331283],
+              [759215.80671977, 2515286.85133319],
+              [759215.96630153, 2515300.62704275]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "S02-1028",
+        "mle_id": "18340",
+        "nom_comple": "MOHAMED AHMED",
+        "cat": "M3",
+        "sce": "880",
+        "date_ancie": "01/10/2005",
+        "sf": "4",
+        "logt_occup": "E02-450",
+        "logt propo": null,
+        "avis_agent": "ok",
+        "nbre_clima": "2",
+        "refrigerat": "true",
+        "cuisinier": "false",
+        "lave_linge": "false",
+        "quota_elec": "1500",
+        "quota_eau": "150",
+        "geom": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.12",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759230.25550476, 2515300.41533763],
+              [759243.31546758, 2515300.22184454],
+              [759243.12891465, 2515286.53482509],
+              [759233.89051644, 2515286.64184524],
+              [759233.92543108, 2515289.65581135],
+              [759230.09675147, 2515289.70016396],
+              [759230.25550476, 2515300.41533763]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E02-1029",
+        "mle_id": "19362",
+        "nom_comple": "ELY CHEIKH OULD MOHAMEDEN.",
+        "cat": "M3",
+        "sce": "951",
+        "date_ancie": "21/09/2008",
+        "sf": "1",
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": "ok",
+        "nbre_clima": "1",
+        "refrigerat": "false",
+        "cuisinier": "false",
+        "lave_linge": "false",
+        "quota_elec": "475",
+        "quota_eau": "150",
+        "geom": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.13",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759243.31546758, 2515300.22184454],
+              [759257.38004293, 2515300.01346727],
+              [759257.22258804, 2515289.38593044],
+              [759253.01388311, 2515289.43468528],
+              [759252.97896847, 2515286.42071926],
+              [759243.12891465, 2515286.53482509],
+              [759243.31546758, 2515300.22184454]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E02-1030",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.14",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759257.38004293, 2515300.01346727],
+              [759270.44775485, 2515299.79788977],
+              [759270.23852354, 2515286.22077957],
+              [759261.01621143, 2515286.32761355],
+              [759261.05112607, 2515289.34157966],
+              [759257.22258804, 2515289.38593044],
+              [759257.38004293, 2515300.01346727]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E02-1031",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.15",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759216.13258978, 2515314.98168345],
+              [759227.18379885, 2515314.8536631],
+              [759227.1488842, 2515311.83969699],
+              [759230.42420304, 2515311.80175476],
+              [759230.25550476, 2515300.41533763],
+              [759215.96630153, 2515300.62704275],
+              [759216.13258978, 2515314.98168345]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "S20-1009",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.16",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759230.42420304, 2515311.80175476],
+              [759234.18147179, 2515311.75822958],
+              [759234.21638644, 2515314.7721956],
+              [759243.52944349, 2515314.66431058],
+              [759243.31546758, 2515300.22184454],
+              [759230.25550476, 2515300.41533763],
+              [759230.42420304, 2515311.80175476]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E02-1010",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.17",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759243.52944349, 2515314.66431058],
+              [759253.30483847, 2515314.55106953],
+              [759253.26992382, 2515311.53710351],
+              [759257.5500396, 2515311.48752143],
+              [759257.38004293, 2515300.01346727],
+              [759243.31546758, 2515300.22184454],
+              [759243.52944349, 2515314.66431058]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E02-1011",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.18",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759257.5500396, 2515311.48752143],
+              [759260.30251141, 2515311.45563601],
+              [759260.33742606, 2515314.46960203],
+              [759270.65528006, 2515314.35007716],
+              [759270.44775485, 2515299.79788977],
+              [759257.38004293, 2515300.01346727],
+              [759257.5500396, 2515311.48752143]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E02-1012",
+        "mle_id": "19444",
+        "nom_comple": "OUMAR AMADOU DIOP",
+        "cat": "M3",
+        "sce": "152",
+        "date_ancie": "18/07/2010",
+        "sf": "3",
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": "ok",
+        "nbre_clima": "1",
+        "refrigerat": "false",
+        "cuisinier": "false",
+        "lave_linge": "false",
+        "quota_elec": "475",
+        "quota_eau": "150",
+        "geom": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.19",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759270.65528006, 2515314.35007716],
+              [759281.43518883, 2515314.22519954],
+              [759281.40027418, 2515311.21123352],
+              [759284.4142403, 2515311.17631878],
+              [759284.28030976, 2515299.61491974],
+              [759270.44775485, 2515299.79788977],
+              [759270.65528006, 2515314.35007716]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E02-1013",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.20",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759064.25738027, 2515301.86989059],
+              [759078.54412946, 2515301.65822174],
+              [759078.37811463, 2515290.4529257],
+              [759075.1782444, 2515290.48999382],
+              [759075.14332975, 2515287.47602779],
+              [759064.09212069, 2515287.60404806],
+              [759064.25738027, 2515301.86989059]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E02-10223",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.21",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759078.54412946, 2515301.65822174],
+              [759092.68032945, 2515301.46596423],
+              [759092.39871074, 2515287.27613654],
+              [759082.17591735, 2515287.39456021],
+              [759082.21083199, 2515290.40852632],
+              [759078.37811463, 2515290.4529257],
+              [759078.54412946, 2515301.65822174]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E02-1024",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.22",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759092.68032945, 2515301.46596423],
+              [759105.66866763, 2515301.25635146],
+              [759105.5039512, 2515290.13869227],
+              [759102.30393939, 2515290.17576203],
+              [759102.26902474, 2515287.16179601],
+              [759092.39871074, 2515287.27613654],
+              [759092.68032945, 2515301.46596423]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E02-1025",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.23",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759105.66866763, 2515301.25635146],
+              [759119.73944596, 2515301.02914111],
+              [759119.52454732, 2515286.96190303],
+              [759109.30161233, 2515287.08032851],
+              [759109.33652698, 2515290.09429453],
+              [759105.5039512, 2515290.13869227],
+              [759105.66866763, 2515301.25635146]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E02-1026",
+        "mle_id": "19513",
+        "nom_comple": "SAMBA ALY SOW.",
+        "cat": "M3",
+        "sce": "830",
+        "date_ancie": "13/10/2009",
+        "sf": "2",
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": "ok",
+        "nbre_clima": "1",
+        "refrigerat": "false",
+        "cuisinier": "false",
+        "lave_linge": "false",
+        "quota_elec": "475",
+        "quota_eau": "150",
+        "geom": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.24",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759119.73944596, 2515301.02914111],
+              [759132.5713885, 2515300.85776758],
+              [759132.4552387, 2515290.83127107],
+              [759129.4412726, 2515290.86618562],
+              [759129.39471974, 2515286.84756423],
+              [759119.52454732, 2515286.96190303],
+              [759119.52454732, 2515286.96190303],
+              [759119.73944596, 2515301.02914111]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E01-1027",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.25",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759064.41799068, 2515315.73439842],
+              [759075.46919975, 2515315.60637816],
+              [759075.43428511, 2515312.59241205],
+              [759078.7055662, 2515312.5545165],
+              [759078.54412946, 2515301.65822174],
+              [759064.25738027, 2515301.86989059],
+              [759064.41799068, 2515315.73439842]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "S02-1004",
+        "mle_id": "18350",
+        "nom_comple": "MOHAMED SALECK OULD AHMED SALEM.",
+        "cat": "M3",
+        "sce": "820",
+        "date_ancie": "01/10/2005",
+        "sf": "3",
+        "logt_occup": "E13-398",
+        "logt propo": null,
+        "avis_agent": "ok",
+        "nbre_clima": "2",
+        "refrigerat": "true",
+        "cuisinier": "false",
+        "lave_linge": "false",
+        "quota_elec": "1500",
+        "quota_eau": "150",
+        "geom": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.26",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759078.7055662, 2515312.5545165],
+              [759082.4668727, 2515312.51094446],
+              [759082.50178735, 2515315.52491057],
+              [759092.81546728, 2515315.40543396],
+              [759092.68032945, 2515301.46596423],
+              [759078.54412946, 2515301.65822174],
+              [759078.7055662, 2515312.5545165]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "S02-1005",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.27",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759092.81546728, 2515315.40543396],
+              [759102.59489475, 2515315.29214628],
+              [759102.5599801, 2515312.27818026],
+              [759105.83140277, 2515312.24028308],
+              [759105.66866763, 2515301.25635146],
+              [759092.68032945, 2515301.46596423],
+              [759092.81546728, 2515315.40543396]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "S02-1006",
+        "mle_id": "17967",
+        "nom_comple": "SAHRA OULD CHEIKH.",
+        "cat": "M3",
+        "sce": "551",
+        "date_ancie": "20/05/2004",
+        "sf": "3",
+        "logt_occup": "E02-051",
+        "logt propo": null,
+        "avis_agent": "ok",
+        "nbre_clima": "2",
+        "refrigerat": "true",
+        "cuisinier": "false",
+        "lave_linge": "false",
+        "quota_elec": "1500",
+        "quota_eau": "150",
+        "geom": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.28",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759105.83140277, 2515312.24028308],
+              [759109.59256769, 2515312.19671277],
+              [759109.62748234, 2515315.21067879],
+              [759119.94130385, 2515315.09120054],
+              [759119.73944596, 2515301.02914111],
+              [759105.66866763, 2515301.25635146],
+              [759105.83140277, 2515312.24028308]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "S02-1007",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.29",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759119.94130385, 2515315.09120054],
+              [759129.72058973, 2515314.97791459],
+              [759129.69731331, 2515312.96860376],
+              [759132.71127942, 2515312.93368912],
+              [759132.5713885, 2515300.85776758],
+              [759119.73944596, 2515301.02914111],
+              [759119.94130385, 2515315.09120054]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "S02-1008",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.30",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [758992.92951873, 2515302.92666618],
+              [759006.21202769, 2515302.72987581],
+              [759006.04255045, 2515291.29088149],
+              [759002.84305776, 2515291.32794523],
+              [759002.80814311, 2515288.31397921],
+              [758992.76158941, 2515288.43036127],
+              [758992.92951873, 2515302.92666618]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E02-1018",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.31",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759006.21202769, 2515302.72987581],
+              [759019.26286048, 2515302.55357261],
+              [759019.05848594, 2515288.12573052],
+              [759010.84538607, 2515288.2208735],
+              [759010.88030071, 2515291.23483961],
+              [759006.04255045, 2515291.29088149],
+              [759006.21202769, 2515302.72987581]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E02-1019",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.32",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759019.26286048, 2515302.55357261],
+              [759030.32272828, 2515302.37265778],
+              [759030.15440518, 2515291.01156289],
+              [759026.95478664, 2515291.0486281],
+              [759026.91987199, 2515288.03466208],
+              [759019.05848594, 2515288.12573052],
+              [759019.26286048, 2515302.55357261]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E01-1020",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.33",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759030.32272828, 2515302.37265778],
+              [759040.36857563, 2515302.20506021],
+              [759040.15635883, 2515287.88132675],
+              [759033.95245959, 2515287.95319448],
+              [759033.98737423, 2515290.9671606],
+              [759030.15440518, 2515291.01156289],
+              [759030.32272828, 2515302.37265778]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E01-1021",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.34",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759040.36857563, 2515302.20506021],
+              [759051.19734929, 2515302.0633847],
+              [759051.07815373, 2515291.77396642],
+              [759047.05953225, 2515291.82051927],
+              [759047.01297939, 2515287.80189779],
+              [759040.15635883, 2515287.88132675],
+              [759040.36857563, 2515302.20506021]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E01-1022",
+        "mle_id": "19741",
+        "nom_comple": "HASNATT OULD AHMED WAHENA.",
+        "cat": "M3",
+        "sce": "880",
+        "date_ancie": "20/09/2010",
+        "sf": "0",
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": "ok",
+        "nbre_clima": "1",
+        "refrigerat": "false",
+        "cuisinier": "false",
+        "lave_linge": "false",
+        "quota_elec": "475",
+        "quota_eau": "150",
+        "geom": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.35",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [758993.0874594, 2515316.56071172],
+              [759003.13401311, 2515316.44432949],
+              [759003.09909846, 2515313.43036346],
+              [759006.37000201, 2515313.39247239],
+              [759006.21202769, 2515302.72987581],
+              [758992.92951873, 2515302.92666618],
+              [758993.0874594, 2515316.56071172]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E02-999",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.36",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759006.37000201, 2515313.39247239],
+              [759010.13168605, 2515313.34889597],
+              [759010.15496248, 2515315.35820671],
+              [759019.46035832, 2515315.25041026],
+              [759019.26286048, 2515302.55357261],
+              [759006.21202769, 2515302.72987581],
+              [759006.37000201, 2515313.39247239]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E02-1000",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.37",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759019.46035832, 2515315.25041026],
+              [759027.1667587, 2515315.16113721],
+              [759027.21082735, 2515313.15104623],
+              [759030.48185674, 2515313.11315379],
+              [759030.32272828, 2515302.37265778],
+              [759019.26286048, 2515302.55357261],
+              [759019.46035832, 2515315.25041026]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E01-1001",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.38",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759030.48185674, 2515313.11315379],
+              [759030.48185674, 2515313.11315379],
+              [759030.48185674, 2515313.11315379],
+              [759034.24341494, 2515313.06957874],
+              [759034.26669136, 2515315.07888957],
+              [759040.54199888, 2515315.00619453],
+              [759040.36857563, 2515302.20506021],
+              [759030.32272828, 2515302.37265778],
+              [759030.48185674, 2515313.11315379]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E01-1002",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.39",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759040.54199888, 2515315.00619453],
+              [759047.32721118, 2515314.92759269],
+              [759047.29229653, 2515311.91362667],
+              [759051.31091801, 2515311.86707382],
+              [759051.19734929, 2515302.0633847],
+              [759040.36857563, 2515302.20506021],
+              [759040.54199888, 2515315.00619453]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E01-1003",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.40",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [758993.38341146, 2515342.10843002],
+              [759006.79250697, 2515341.90976436],
+              [759006.63791693, 2515331.47559212],
+              [759003.30858632, 2515331.51416004],
+              [759003.26203346, 2515327.49553865],
+              [758993.21547976, 2515327.61192079],
+              [758993.38341146, 2515342.10843002]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E02-985",
+        "mle_id": "19634",
+        "nom_comple": "BOCAR SAMBA DIENG.",
+        "cat": "M3",
+        "sce": "830",
+        "date_ancie": "15/07/2010",
+        "sf": "2",
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": "ok",
+        "nbre_clima": "1",
+        "refrigerat": "false",
+        "cuisinier": "false",
+        "lave_linge": "false",
+        "quota_elec": "475",
+        "quota_eau": "150",
+        "geom": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.41",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759006.79250697, 2515341.90976436],
+              [759019.8526555, 2515341.73230278],
+              [759019.63896825, 2515327.30582357],
+              [759010.29462106, 2515327.41407106],
+              [759010.34117391, 2515331.43269254],
+              [759006.63791693, 2515331.47559212],
+              [759006.79250697, 2515341.90976436]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E02-986",
+        "mle_id": "21025",
+        "nom_comple": "ABDI EL HAFEDH.",
+        "cat": "M3",
+        "sce": "830",
+        "date_ancie": "31/03/2013",
+        "sf": "1",
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": "ok",
+        "nbre_clima": "1",
+        "refrigerat": "false",
+        "cuisinier": "false",
+        "lave_linge": "false",
+        "quota_elec": "475",
+        "quota_eau": "150",
+        "geom": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.42",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759019.8526555, 2515341.73230278],
+              [759030.90320757, 2515341.55254625],
+              [759030.73488749, 2515330.19165585],
+              [759026.40402162, 2515330.24182574],
+              [759026.36910698, 2515327.22785963],
+              [759019.63896825, 2515327.30582357],
+              [759019.8526555, 2515341.73230278]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E01-987",
+        "mle_id": "19717",
+        "nom_comple": "AHMED SALEM OULD TEYIB.",
+        "cat": "M3",
+        "sce": "820",
+        "date_ancie": "20/09/2010",
+        "sf": "0",
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": "ok",
+        "nbre_clima": "1",
+        "refrigerat": "false",
+        "cuisinier": "false",
+        "lave_linge": "false",
+        "quota_elec": "475",
+        "quota_eau": "150",
+        "geom": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.43",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759030.90320757, 2515341.55254625],
+              [759040.94261381, 2515341.38463311],
+              [759040.73684114, 2515327.06141979],
+              [759034.40634993, 2515327.13475401],
+              [759034.44126457, 2515330.14872012],
+              [759030.73488749, 2515330.19165585],
+              [759030.90320757, 2515341.55254625]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E01-988",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.44",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759040.94261381, 2515341.38463311],
+              [759051.651242, 2515341.24514872],
+              [759051.52040587, 2515329.95087048],
+              [759048.50643976, 2515329.98578503],
+              [759048.47152511, 2515326.97181901],
+              [759040.73684114, 2515327.06141979],
+              [759040.94261381, 2515341.38463311]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E01-989",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.45",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [758993.54134976, 2515355.74227115],
+              [759003.58790346, 2515355.62588892],
+              [759003.55298882, 2515352.61192281],
+              [759006.95048432, 2515352.57256534],
+              [759006.79250697, 2515341.90976436],
+              [758993.38341146, 2515342.10843002],
+              [758993.54134976, 2515355.74227115]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E02-971",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.46",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759006.95048432, 2515352.57256534],
+              [759010.5855764, 2515352.5304554],
+              [759010.62049105, 2515355.54442142],
+              [759020.03624521, 2515355.43534664],
+              [759019.8526555, 2515341.73230278],
+              [759006.79250697, 2515341.90976436],
+              [759006.95048432, 2515352.57256534]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E02-972",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.47",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759020.03624521, 2515355.43534664],
+              [759026.69497697, 2515355.35820999],
+              [759026.66006233, 2515352.34424397],
+              [759031.06233906, 2515352.29324665],
+              [759030.90320757, 2515341.55254625],
+              [759019.8526555, 2515341.73230278],
+              [759020.03624521, 2515355.43534664]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E01-973",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.48",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759031.06233906, 2515352.29324665],
+              [759034.69730529, 2515352.25113826],
+              [759034.73221993, 2515355.26510428],
+              [759041.15359768, 2515355.1907173],
+              [759040.94261381, 2515341.38463311],
+              [759030.90320757, 2515341.55254625],
+              [759031.06233906, 2515352.29324665]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E01-974",
+        "mle_id": "19516",
+        "nom_comple": "AHMED OULD MOHAMED.",
+        "cat": "M3",
+        "sce": "840",
+        "date_ancie": "13/10/2009",
+        "sf": "0",
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": "ok",
+        "nbre_clima": "1",
+        "refrigerat": "false",
+        "cuisinier": "false",
+        "lave_linge": "false",
+        "quota_elec": "475",
+        "quota_eau": "150",
+        "geom": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.49",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [759041.15359768, 2515355.1907173],
+              [759041.15359768, 2515355.1907173],
+              [759047.79273975, 2515355.11380749],
+              [759047.76946331, 2515353.10449684],
+              [759051.7880848, 2515353.0579439],
+              [759051.651242, 2515341.24514872],
+              [759040.94261381, 2515341.38463311],
+              [759041.15359768, 2515355.1907173]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E01-975",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "plan_logement.50",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [758993.28657914, 2515420.48684206],
+              [759006.94885302, 2515420.28442527],
+              [759006.79422095, 2515409.84741631],
+              [759006.22567777, 2515409.85400247],
+              [759006.16748669, 2515404.83072571],
+              [759004.15817595, 2515404.85400214],
+              [759004.16981416, 2515405.85865751],
+              [758993.1186051, 2515405.98667777],
+              [758993.28657914, 2515420.48684206]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geo",
+      "properties": {
+        "id": null,
+        "logt_propo": "E02-922",
+        "mle_id": null,
+        "nom_comple": null,
+        "cat": null,
+        "sce": null,
+        "date_ancie": null,
+        "sf": null,
+        "logt_occup": null,
+        "logt propo": null,
+        "avis_agent": null,
+        "nbre_clima": null,
+        "refrigerat": null,
+        "cuisinier": null,
+        "lave_linge": null,
+        "quota_elec": null,
+        "quota_eau": null,
+        "geom": null
+      }
+    }
+  ],
+  "totalFeatures": 888,
+  "numberMatched": 888,
+  "numberReturned": 50,
+  "timeStamp": "2024-08-21T02:15:19.195Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::32628"
+    }
+  }
+}
